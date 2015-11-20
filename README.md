@@ -9,4 +9,4 @@
 
 ## Special Thanks
 
-A special thanks goes to [Hassan Ashraf](mailto:info@cyberavanza.com) from the company [Cyber Avanza](www.cyberavanza.com) for creating an awesome logo for free! I really appreciate their work and time!
+A special thanks goes to [Hassan Ashraf](mailto:info@cyberavanza.com) from the company [Cyber Avanza](http://www.cyberavanza.com) for creating an awesome logo for free! I really appreciate their work and time!
